@@ -195,6 +195,9 @@ const Products = () => {
                     <option value="cakes">Cakes</option>
                     <option value="fastfood">Fast Food</option>
                     <option value="combos">Combos</option>
+                    <option value="toys">Toys</option>
+                    <option value="drinks">Drinks</option>
+                    <option value="party-supplies">Party Supplies</option>
                   </Form.Select>
                 </Form.Group>
               </Col>
